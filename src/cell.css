@@ -12,6 +12,7 @@
     position: relative;
     top:20%;
     margin: auto;
+    pointer-events: none;
 }
 
 .light {
